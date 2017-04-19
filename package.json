@@ -4,12 +4,13 @@
   "description": "A Discord Bot",
   "main": "bot.js",
   "scripts": {
-    "test": "node bot.js"
+    "main": "node bot.js"
   },
   "author": "No-Half-Measures",
   "license": "ISC",
   "invite": "https://discordapp.com/api/oauth2/authorize?client_id=254267320661311488&scope=bot&permissions=0",
   "dependencies": {
-    "discordie": "^0.10.0"
+    "discordie": "^0.10.0",
+    "npm": ""
   }
 }
