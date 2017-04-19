@@ -1,2 +1,2 @@
 # Akatsuki
-Akatsuki is a discord bot built in Node
+Akatsuki is a discord bot built on Node.Js
