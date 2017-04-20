@@ -4,7 +4,7 @@
   "description": "A Discord Bot",
   "main": "bot.js",
   "scripts": {
-    "main": "node bot.js"
+    "test": "node bot.js"
   },
   "author": "No-Half-Measures",
   "license": "ISC",
